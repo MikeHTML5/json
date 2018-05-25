@@ -1,0 +1,26 @@
+[
+  {
+    "team": "Man City",
+    "win" : "3.46",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "team": "Arsenal",
+    "win" : "2.40",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "team": "Chelsea",
+    "win" : "4.50",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
+]
