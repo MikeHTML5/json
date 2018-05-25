@@ -1,0 +1,14 @@
+[
+  {
+    "team": "Chelsea",
+    "win" : "0.2",
+  },
+  {
+    "team": "Arsenal",
+    "win" : "0.3",
+  },
+  {
+    "team": "Man City",
+    "win" : "0.4",
+  }
+]
