@@ -16,8 +16,8 @@
     }
   },
   {
-    "name": "Purrpaws",
-    "species" : "cat",
+    "team": "Purrpaws",
+    "win" : "cat",
     "foods": {
       "likes": ["mice"],
       "dislikes": ["cookies"]
