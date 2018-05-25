@@ -1,14 +1,26 @@
 [
   {
-    "team": "Chelsea",
-    "win" : "0.2",
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
   },
   {
-    "team": "Arsenal",
-    "win" : "0.3",
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
   {
-    "team": "Man City",
-    "win" : "0.4",
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
   }
 ]
